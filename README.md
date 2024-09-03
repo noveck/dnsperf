@@ -2,7 +2,7 @@
 DNS Server Performance Tester
 
 
-Bash script, written for use on a mac/terminal. Can probably work on linux.
+Bash script, written for use on a mac/terminal. Can probably work on linux. (code assisted by Claude AI)
 
 Prerequisites:
 gnuplot
